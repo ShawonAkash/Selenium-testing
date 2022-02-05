@@ -23,6 +23,3 @@ public class LoginPage {
         driver.findElement(nextBtn2).click();
     }
 }
-
-//eibucieez@gmail.com
-//Sh@ntoft1234
